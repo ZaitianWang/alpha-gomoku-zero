@@ -1,0 +1,8 @@
+.vscode/
+log/
+model/
+__pycache__/
+*.pickle
+*.tsv
+test.*
+
