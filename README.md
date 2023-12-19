@@ -1,5 +1,9 @@
 # alpha-gomoku-zero
 
+course project for *Computational Game Theory and Applications* of UCAS
+
+## features
+
 - adopts similar architecture to AlphaGo Zero
 - used for Gomoku (Five in a Row) game
 - a 10x10 board setup
